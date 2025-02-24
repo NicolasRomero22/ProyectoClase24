@@ -67,7 +67,7 @@ public class Main {
                     System.out.println("¡Ha roto su alcancía! En total ahorró: " + alcancia + " pesos.");
                     break;
                 default:
-                    System.out.println("Ingrese un valor válido entre 1 y 7.");
+                    System.out.println("Ingrese un valor válido entre 1 y 8.");
                     break;
             }
         } while (valor != 8);
